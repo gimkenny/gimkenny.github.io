@@ -1,0 +1,82 @@
+primary_name: "Bocheon Gim"
+secondary_name: "(Kenny)"
+navbar_name: "Bocheon"
+
+positions:
+- logo: /assets/images/badges/gist_logo.png  # Logo is optional
+  name: Master's Student in Intelligent Robotics, GIST
+
+
+email: "gimkenny1999@gm.gist.ac.kr"
+# cv_link: link-to-your-cv-file
+gscholar: vEn4xTMAAAAJ  # This is an example, replace it with your own Google Scholar ID
+# github: gimkenny
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: 3b3a84156
+orcid: 0009-0003-3499-4584
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+     Hello, all! I’m Bocheon (Kenny), currently a Master’s Student majoring in Intelligent Robotics, under the supervision of Professor Seungjun Kim (School of Integrated Technology, GIST).  While still early in my days as a researcher of HCI (Human-Computer Interaction) and VR (Virtual Reality), I am nonetheless deeply invested in exploring the relatively untapped potential of the virtual world as a place of joy, peace, and productivity. 
+  </p>
+  <p>     
+     My current research involves investigating the potential for interactive VR applications while in-car. Multiple challenges specific to vehicles hinder the use of VR for passengers, ranging from limited physical space to somatosensory disturbances caused by vehicle motion. My goal is to create an accessible in-car virtual environment where users can enjoy a variety of contents as they would in the comfort of their own homes (or perhaps, even enhancing their experience!). 
+  </p>
+  <p>    
+     When I’m not (happily, mind you) buried in my research, I enjoy creating music or consuming movie analyses (which for some reason, I enjoy more than watching the movies themselves…). Please refer to the following sections for details on my publications and experiences, and contact me through my <a href="https://www.linkedin.com/in/bocheon-gim-3b3a84156/">LinkedIn</a> or by email!
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+portrait_caption: 
+
+education:
+- name: Gwangju Institute of Science and Technology
+  logo: /assets/images/badges/gist_logo.png
+  position: >- 
+    School of Integrated Technology <br/>
+    Master's Student <br/>
+    Advisor: Prof. Seungjun Kim
+  date: Mar. 2024 - present
+- name: Gwangju Institute of Science and Technology
+  logo: /assets/images/badges/gist_logo.png
+  position: >-
+    B.S. in Electrical Engineering and Computer Science <br/>
+    Thesis: Utilizing Real-Time Video Matting for Real Hand Visualization and Interaction within Augmented Virtuality <br/>
+    Advisor: Prof. Jeany Son, Prof. Seungjun Kim
+  date: Mar. 2018 - Feb. 2024
+
+experience:
+- name: Gwangju Institute of Science and Technology
+  logo: /assets/images/badges/gist_logo.png
+  position: >- 
+    Human-Centered Intelligent Systems Lab. <br/>
+    Research Assistant
+  date: Mar. 2024 - present
+- name: Gwangju Institute of Science and Technology
+  logo: /assets/images/badges/gist_logo.png
+  position: >- 
+    Human-Centered Intelligent Systems Lab. <br/>
+    Research Intern
+  date: Jul. 2022 - Feb. 2024
+- name: Republic of Korea Air Force (ROKAF)
+  logo: /assets/images/badges/rokaf.png
+  position: >- 
+    English Translator & Training Systems Administrator <br/>
+    Completed Obligation at Staff Sgt.
+  date: Jun. 2020 - Feb. 2022
+- name: Hankuk Academy of Foreign Studies
+  logo: /assets/images/badges/hafs.png
+  position: >- 
+    HAFS Camp Senior Teacher (West-Point class) <br/>
+  date: Dec 2019 - Feb 2020
+
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
