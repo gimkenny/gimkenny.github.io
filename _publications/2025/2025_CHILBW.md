@@ -4,7 +4,7 @@ date:           2025-04-26 00:01:00 +0800
 selected:       true
 pub:            "CHI EA '25: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
 # pub_pre:        "Submitted to "
-pub_post:       '(COND. ACCEPTED)'
+# pub_post:       '(COND. ACCEPTED)'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
@@ -19,6 +19,6 @@ authors:
   - Eunki Jeon
   - Seungjun Kim
 #links:
-  #Paper: https://dl.acm.org/doi/full/10.1145/3613905.3650746
+  Paper: https://dl.acm.org/doi/10.1145/3706599.3720248
   #Presentation: https://www.youtube.com/watch?v=GwLwPICaMsA
 ---
