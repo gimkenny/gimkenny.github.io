@@ -19,11 +19,14 @@ orcid: 0009-0003-3499-4584
 
 short_bio_text_justify: true
 short_bio: >-
+  <div style="background-color: #fff3cd; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; margin-bottom: 15px;">
+    📢 Status Update: I am currently looking for/open to PhD opportunities in the coming 26/27 cycle. Please feel free to contact me for more details!
+  </div>
   <p>
      Hello, all! I’m Bocheon (Kenny), currently a Master’s Student majoring in Intelligent Robotics, under the supervision of <a href="https://sites.google.com/view/gist-hcis-lab/people">Prof. SeungJun Kim</a> (School of Integrated Technology, GIST).  While still early in my days as a researcher of HCI (Human-Computer Interaction) and VR (Virtual Reality), I am nonetheless deeply invested in exploring the relatively untapped potential of the virtual world as a place of joy, peace, and productivity. 
   </p>
   <p>     
-     My current research involves investigating the potential for interactive VR applications while in-car. Multiple challenges specific to vehicles hinder the use of VR for passengers, ranging from limited physical space to somatosensory disturbances caused by vehicle motion. My goal is to create an accessible in-car virtual environment where users can enjoy a variety of contents as they would in the comfort of their own homes (or perhaps, even enhancing their experience!). 
+     My current research involves investigating the potential for interactive VR applications while in-car. Multiple challenges specific to vehicles hinder the use of VR for passengers, ranging from limited physical space to disturbances caused by vehicle motion. My goal is to create an accessible in-car virtual environment where users can enjoy a variety of contents as they would in the comfort of their own homes. 
   </p>
   <p>    
      When I’m not (happily, mind you) buried in my research, I enjoy creating music or consuming movie analyses (which for some reason, I enjoy more than watching the movies themselves…). Please refer to the following sections for details on my publications and experiences, and contact me through my <a href="https://www.linkedin.com/in/bocheon-gim-3b3a84156/">LinkedIn</a> or by email!
@@ -38,14 +41,14 @@ education:
   position: >- 
     College of Information and Computing <br/>
     Master's Student <br/>
-    Advisor: Prof. Seungjun Kim
+    Advisor: Prof. SeungJun Kim
   date: Mar. 2024 - present
 - name: Gwangju Institute of Science and Technology
   logo: /assets/images/badges/gist_logo.png
   position: >-
     B.S. in Electrical Engineering and Computer Science <br/>
     Thesis: Utilizing Real-Time Video Matting for Real Hand Visualization and Interaction within Augmented Virtuality <br/>
-    Advisor: Prof. Jeany Son, Prof. Seungjun Kim
+    Advisor: Prof. Jeany Son, Prof. SeungJun Kim
   date: Mar. 2018 - Feb. 2024
 
 experience:
