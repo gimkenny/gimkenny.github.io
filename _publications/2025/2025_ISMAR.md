@@ -5,7 +5,7 @@ selected:       true
 pub:            "ISMAR 2025: IEEE International Symposium on Mixed and Augmented Reality"
 # pub_pre:        "Submitted to "
 pub_post:       '(COND. ACCEPTED)'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">1st Author</span>'
 pub_date:       "2025"
 
 abstract: >-
