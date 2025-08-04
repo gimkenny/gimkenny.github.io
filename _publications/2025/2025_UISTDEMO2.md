@@ -1,5 +1,5 @@
 ---
-title:          "EarPressure VR: Ear Canal Pressure Feedback for Enhancing Environmental Presence in Virtual Reality"
+title:          "Demonstration of EarPressure VR: Ear Canal Pressure Feedback for Enhancing Environmental Presence in Virtual Reality"
 date:           2025-07-25 00:01:00 +0800
 selected:       true
 pub:            "UIST '25 Adjunct: Adjunct Proceedings of the ACM Symposium on User Interface Software and Technology"
