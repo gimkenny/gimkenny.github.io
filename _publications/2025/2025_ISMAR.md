@@ -1,6 +1,6 @@
 ---
 title:          "Defying Gravity: Towards Gravitoinertial Retargeting of Acceleration for Virtual Vertical Motion in In-Car VR"
-date:           2025-07-26 00:01:00 +0800
+date:           2025-07-30 00:01:00 +0800
 selected:       true
 pub:            "ISMAR 2025: IEEE International Symposium on Mixed and Augmented Reality"
 # pub_pre:        "Submitted to "
