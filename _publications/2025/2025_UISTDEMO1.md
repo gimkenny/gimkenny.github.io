@@ -1,7 +1,7 @@
 ---
 title:          "Demonstration of AttraCar: Multisensory In-Car VR with Thermal, Airflow, and Motion Feedback through Built-In Vehicle Systems"
 date:           2025-07-28 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "UIST '25 Adjunct: Adjunct Proceedings of the ACM Symposium on User Interface Software and Technology"
 # pub_pre:        "Submitted to "
 pub_post:       'ACCEPTED'
