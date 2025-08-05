@@ -1,6 +1,6 @@
 ---
 title:          "Demonstration of EarPressure VR: Ear Canal Pressure Feedback for Enhancing Environmental Presence in Virtual Reality"
-date:           2025-07-25 00:01:00 +0800
+date:           2025-07-29 00:01:00 +0800
 selected:       false
 pub:            "UIST '25 Adjunct: Adjunct Proceedings of the ACM Symposium on User Interface Software and Technology"
 # pub_pre:        "Submitted to "
