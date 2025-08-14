@@ -4,7 +4,7 @@ date:           2025-08-2 00:01:00 +0800
 selected:       false
 pub:            "ISMAR '25 Adjunct: IEEE International Symposium on Mixed and Augmented Reality Adjunct"
 # pub_pre:        "Submitted to "
-pub_post:       'COND. ACCEPTED'
+pub_post:       '(COND. ACCEPTED)'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
 pub_date:       "2025"
 
