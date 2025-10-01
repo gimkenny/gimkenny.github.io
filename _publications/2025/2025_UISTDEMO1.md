@@ -21,7 +21,7 @@ authors:
   - Seongjun Kang
   - Ahmed Elsharkawy
   - Seungjun Kim
-#links:
+links:
   #Paper: https://doi.org/10.1145/3706598.3713373
   Video: https://www.youtube.com/watch?v=7QfHtuEMjfU
 ---
