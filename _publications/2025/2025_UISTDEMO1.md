@@ -4,7 +4,7 @@ date:           2025-07-28 00:01:00 +0800
 selected:       false
 pub:            "UIST '25 Adjunct: Adjunct Proceedings of the ACM Symposium on User Interface Software and Technology"
 # pub_pre:        "Submitted to "
-pub_post:       '(COND. ACCEPTED)'
+# pub_post:       '(COND. ACCEPTED)'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
 pub_date:       "2025"
 
@@ -23,5 +23,5 @@ authors:
   - Seungjun Kim
 #links:
   #Paper: https://doi.org/10.1145/3706598.3713373
-  #Presentation: https://www.youtube.com/watch?v=GwLwPICaMsA
+  Video: https://www.youtube.com/watch?v=7QfHtuEMjfU
 ---
