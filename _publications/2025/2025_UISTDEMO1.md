@@ -5,7 +5,7 @@ selected:       false
 pub:            "UIST '25 Adjunct: Adjunct Proceedings of the ACM Symposium on User Interface Software and Technology"
 # pub_pre:        "Submitted to "
 # pub_post:       '(COND. ACCEPTED)'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Honourable Mention Jury's Choice, Best Demo People's Choice</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
 pub_date:       "2025"
 
 abstract: >-
