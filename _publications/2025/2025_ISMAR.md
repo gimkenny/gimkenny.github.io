@@ -20,7 +20,7 @@ authors:
   - Juwon Um
   - Jeongju Park
   - Seungjun Kim
-#links:
-  #Paper: https://doi.org/10.1145/3706598.3713373
+links:
+  Paper: https://ieeexplore.ieee.org/document/11220362
   #Presentation: https://www.youtube.com/watch?v=GwLwPICaMsA
 ---
