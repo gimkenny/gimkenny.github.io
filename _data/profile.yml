@@ -3,7 +3,7 @@ secondary_name: "(Kenny)"
 navbar_name: "Bocheon"
 
 positions:
-- logo: /assets/images/badges/gist_logo.png  # Logo is optional
+- logo: /assets/images/badges/uchicago.jpeg  # Logo is optional
   name: PhD Student in Computer Science, University of Chicago
 
 
@@ -31,7 +31,7 @@ portrait_caption:
 
 education:
 - name: University of Chicago
-  logo: /assets/images/badges/gist_logo.png
+  logo: /assets/images/badges/uchicago.jpeg
   position: >- 
     Department of Computer Science <br/>
     PhD Student <br/>
@@ -55,7 +55,7 @@ education:
 
 experience:
 - name: University of Chicago
-  logo: /assets/images/badges/gist_logo.png
+  logo: /assets/images/badges/uchicago.jpeg
   position: >- 
     Human Computer Integration Lab. <br/>
     Research Assistant
