@@ -1,23 +1,28 @@
 ---
-title:          "SelfBlending: Artificial Intelligence-driven Augmentation with Hand Interactions for Seamless Reality Blending in Virtual Environments"
-date:           2026-05-16 00:01:00 +0800
+title:          "EMSWalker: Integrating Gait-Synchronized Electrical Muscle Stimulation for Seated Walking-in-Place in Virtual Reality"
+date:           2026-09-16 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
+pub:            "ISMAR 2026: IEEE International Symposium on Mixed and Augmented Reality"
 # pub_pre:        "Submitted to "
-# pub_post:       '(COND. ACCEPTED)'
+pub_post:       '(COND. ACCEPTED)'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
 pub_date:       "2026"
 
 abstract: >-
-  Accessing real-world objects during immersive virtual reality (VR) experiences remains challenging, as current cross-reality systems often rely on predefined interaction steps, tracking devices/markers, or fixed object setups. They also lack support for personalized object recall, where users can add, remove, or modify real-world items blended into the virtual environment (VE). Many head-mounted displays (HMDs) include passthrough technology to switch between virtual and real worlds, but it often disrupts immersion by requiring a full shift from virtual to real. Thus, maintaining an optimal balance between virtuality and reality is difficult. To address these challenges, we developed SelfBlending, a framework that uses AI-based hand tracking to let users label physical objects through freehand gestures, then blends the selected item into the VE using object recognition, enabling interaction with the relevant real-world object. SelfBlending was evaluated against two common interaction conditions: the default passthrough feature in VR HMDs and the conventional approach of physically removing the HMD to access real-world objects. Results from seated, single-object interactions with tabletop-placed items showed that SelfBlending enhanced user experience by boosting presence, supporting efficient physical interaction, and improving cross-reality continuity. It also enabled selective interaction with real objects while minimizing the disruption of VR experience.
+  We present EMSWalker, a system that provides proprioceptive feedback during seated walking-in-place by delivering gait-synchronized electrical muscle stimulation (EMS) to the leg muscles involved in walking (quadriceps, tibialis anterior, and gastrocnemius). By mapping foot tapping to the human gait cycle, EMSWalker renders virtual walking sensations for level, uphill, and downhill locomotion while users remain seated. Through three user studies, we evaluate (1) cognitive remapping from seated walking-in-place to walking, (2) discrimination of terrain-specific EMS patterns, and (3) EMSWalker’s effects on virtual walking experience. Results show that EMSWalker significantly increased proprioceptive drift and embodiment relative to other conditions, enabled above-chance discrimination of slope-specific stimulation patterns, and improved spatial presence and realism in a VR walking experience with flat and sloped terrain. These findings demonstrate that gait-synchronized, terrain-adaptive EMS can enrich seated VR locomotion by providing more coherent proprioceptive feedback and a more realistic, spatially immersive walking experience.
 
 cover:          /assets/images/covers/selfblending.jpeg
 authors:
-  - Ahmed Elsharkawy
+  - Juwon Um
+  - Seongjun Kang
   - Bocheon Gim
-  - Aya Ataya
+  - Yumin Kang
+  - Gwangbin Kim
+  - Semoo Shin
+  - Joseph DelPreto
+  - Daniela Rus
   - Seungjun Kim
 links:
-  Paper: https://www.computer.org/csdl/journal/tg/5555/01/11509645/2ggU0fiSODS
+  #Paper: https://www.computer.org/csdl/journal/tg/5555/01/11509645/2ggU0fiSODS
   #Video: https://www.youtube.com/watch?v=xOLC-AP0Xuw
 ---
