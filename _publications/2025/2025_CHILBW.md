@@ -1,7 +1,7 @@
 ---
 title:          "TeleHopper: Simulating a Jumping Sensation as Proprioceptive Feedback for Teleportation in Virtual Reality via Electrical Muscle Stimulation"
 date:           2025-04-26 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "CHI EA '25: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
 # pub_pre:        "Submitted to "
 # pub_post:       '(COND. ACCEPTED)'
