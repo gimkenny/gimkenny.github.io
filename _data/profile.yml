@@ -22,9 +22,6 @@ short_bio: >-
   <p>
      Bocheon (Kenny) Gim is a Ph.D. student in Computer Science at the University of Chicago, advised by Prof. Pedro Lopes at the Human Computer Integration Lab. He received his B.S. degree in Electrical Engineering and Computer Science and his M.S. degree in Intelligent Robotics at the Gwangju Institute of Science and Technology. His research lies at the intersection of human-computer interaction, virtual reality, and multisensory interfaces, with a focus on embodied interaction and perceptual augmentation. 
   </p>
-  #<div style="background-color: #fff3cd; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; margin-bottom: 15px;">
-    #📢 Status Update: I am thrilled to begin by PhD journey with <a href="https://plopes.org">Prof. Pedro Lopes</a> at the University of Chicago, beginning Fall 2026!
-  #</div>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: 
@@ -64,14 +61,8 @@ experience:
   logo: /assets/images/badges/gist_logo.png
   position: >- 
     Human-Centered Intelligent Systems Lab. <br/>
-    Research Assistant
-  date: Mar. 2024 - Feb. 2026
-- name: Gwangju Institute of Science and Technology
-  logo: /assets/images/badges/gist_logo.png
-  position: >- 
-    Human-Centered Intelligent Systems Lab. <br/>
-    Research Intern
-  date: Jul. 2022 - Feb. 2024
+    Research Intern & Assistant
+  date: Jul. 2022 - Feb. 2026
 - name: Republic of Korea Air Force (ROKAF)
   logo: /assets/images/badges/rokaf.png
   position: >- 
