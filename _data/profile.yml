@@ -4,7 +4,7 @@ navbar_name: "Bocheon"
 
 positions:
 - logo: /assets/images/badges/gist_logo.png  # Logo is optional
-  name: Master's Student in Intelligent Robotics, GIST
+  name: PhD Student in Computer Science, University of Chicago
 
 
 email: "bocheongim@uchicago.edu"
@@ -14,35 +14,37 @@ gscholar: vEn4xTMAAAAJ  # This is an example, replace it with your own Google Sc
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: 3b3a84156
+linkedin: bocheon-gim-3b3a84156
 orcid: 0009-0003-3499-4584
 
 short_bio_text_justify: true
 short_bio: >-
   <p>
-     Hello, all! I’m Bocheon (Kenny), a Master’s Student majoring in Intelligent Robotics, under the supervision of <a href="https://sites.google.com/view/gist-hcis-lab/people">Prof. SeungJun Kim</a> (Department of AI Convergence, GIST).  While still early in my days as a researcher of HCI (Human-Computer Interaction) and VR (Virtual Reality), I am nonetheless deeply invested in exploring the relatively untapped potential of the virtual world as a place of joy, peace, and productivity. 
+     Bocheon (Kenny) Gim is an incoming Ph.D. student in Computer Science at the University of Chicago, to be advised by Prof. Pedro Lopes at the Human Computer Integration Lab. He received his B.S. degree in Electrical Engineering and Computer Science and his M.S. degree in Intelligent Robotics at the Gwangju Institute of Science and Technology. His research lies at the intersection of human-computer interaction, virtual reality, and multisensory interfaces, with a focus on embodied interaction and perceptual augmentation. 
   </p>
-  <p>     
-     My most recent research research involves investigating the potential for interactive VR applications while in-car. Multiple challenges specific to vehicles hinder the use of VR for passengers, ranging from limited physical space to disturbances caused by vehicle motion. I am particularly interested in how human perception can be manipulated to interpret vehicle-induced forces in new and exciting ways. 
-  </p>
-  <p>    
-     When I’m not (happily, mind you) buried in my research, I enjoy shredding on needlessly expensive guitars or consuming movie analyses (which for some reason, I enjoy more than watching the movies themselves…). Please refer to the following sections for details on my publications and experiences, and contact me through my <a href="https://www.linkedin.com/in/bocheon-gim-3b3a84156/">LinkedIn</a> or by email!
-  </p>
-  <div style="background-color: #fff3cd; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; margin-bottom: 15px;">
-    📢 Status Update: I am thrilled to begin by PhD journey with <a href="https://plopes.org">Prof. Pedro Lopes</a> at the University of Chicago, beginning Fall 2026!
-  </div>
+  #<div style="background-color: #fff3cd; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; margin-bottom: 15px;">
+    #📢 Status Update: I am thrilled to begin by PhD journey with <a href="https://plopes.org">Prof. Pedro Lopes</a> at the University of Chicago, beginning Fall 2026!
+  #</div>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: 
 
 education:
+- name: University of Chicago
+  logo: /assets/images/badges/gist_logo.png
+  position: >- 
+    Department of Computer Science <br/>
+    PhD Student <br/>
+    Advisor: Prof. Pedro Lopes
+  date: Sep. 2026  - present
 - name: Gwangju Institute of Science and Technology
   logo: /assets/images/badges/gist_logo.png
   position: >- 
     College of Information and Computing <br/>
     Master's Student <br/>
+    Thesis: Enabling Active Locomotion in In-Car VR through Contextual Cues
     Advisor: Prof. SeungJun Kim
-  date: Mar. 2024 - present
+  date: Mar. 2024 - Feb. 2026
 - name: Gwangju Institute of Science and Technology
   logo: /assets/images/badges/gist_logo.png
   position: >-
@@ -52,12 +54,18 @@ education:
   date: Mar. 2018 - Feb. 2024
 
 experience:
+- name: University of Chicago
+  logo: /assets/images/badges/gist_logo.png
+  position: >- 
+    Human Computer Integration Lab. <br/>
+    Research Assistant
+  date: Sep. 2026 - present
 - name: Gwangju Institute of Science and Technology
   logo: /assets/images/badges/gist_logo.png
   position: >- 
     Human-Centered Intelligent Systems Lab. <br/>
     Research Assistant
-  date: Mar. 2024 - present
+  date: Mar. 2024 - Feb. 2026
 - name: Gwangju Institute of Science and Technology
   logo: /assets/images/badges/gist_logo.png
   position: >- 
