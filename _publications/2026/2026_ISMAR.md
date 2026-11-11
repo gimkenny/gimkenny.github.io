@@ -23,6 +23,6 @@ authors:
   - Daniela Rus
   - Seungjun Kim
 links:
-  #Paper: https://www.computer.org/csdl/journal/tg/5555/01/11509645/2ggU0fiSODS
+  Paper: https://ieeexplore.ieee.org/document/11764857
   #Video: https://www.youtube.com/watch?v=xOLC-AP0Xuw
 ---
